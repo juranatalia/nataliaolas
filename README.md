@@ -1,6 +1,5 @@
 ### Hi there, I'm Natalia 👋
 - 👨‍🎓 Master of Science in Computer Science
-- 📕 Junior Data Scientist
 
 ### Technologies:
 * Python
